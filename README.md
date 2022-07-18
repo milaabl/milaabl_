@@ -1,41 +1,41 @@
-[x] React
-[x] Next
-[x] Nest
-[x] Typescript
-[x] Web3
-[x] MongoDB
-[x] Mongoose
-[x] PostgreSQL
-[x] Golang
-[x] Express
-[x] Node
-[x] i18n
-[x] MUI
-[x] Tailwind CSS
-[x] Bootstrap
-[x] styled-components
-[x] Figma
-[x] Zeplin
-[x] Sketch
-[x] Adobe XD
-[x] PSD
-[x] GSAP
-[x] ThreeJS
-[x] FFMPEG
-[x] AnimeJS
-[x] Framer Motion
-[x] gRPC
-[x] Websockets
-[x] Webhooks
-[x] Mailchimp
-[x] Headless Wordpress
-[x] CraftCMS
-[x] GraphCMS
-[x] LESS
-[x] SASS
-[x] SCSS
-[x] AWS (SES, S3 file storage/static hosting, EC2, Lambda, Amplify)
-[x] Heroku
-[x] Netlify
-[x] Firebase
-[x] Vercel
+- [x] React
+- [x] Next
+- [x] Nest
+- [x] Typescript
+- [x] Web3
+- [x] MongoDB
+- [x] Mongoose
+- [x] PostgreSQL
+- [x] Golang
+- [x] Express
+- [x] Node
+- [x] i18n
+- [x] MUI
+- [x] Tailwind CSS
+- [x] Bootstrap
+- [x] styled-components
+- [x] Figma
+- [x] Zeplin
+- [x] Sketch
+- [x] Adobe XD
+- [x] PSD
+- [x] GSAP
+- [x] ThreeJS
+- [x] FFMPEG
+- [x] AnimeJS
+- [x] Framer Motion
+- [x] gRPC
+- [x] Websockets
+- [x] Webhooks
+- [x] Mailchimp
+- [x] Headless Wordpress
+- [x] CraftCMS
+- [x] GraphCMS
+- [x] LESS
+- [x] SASS
+- [x] SCSS
+- [x] AWS (SES, S3 file storage/static hosting, EC2, Lambda, Amplify)
+- [x] Heroku
+- [x] Netlify
+- [x] Firebase
+- [x] Vercel
