@@ -39,3 +39,12 @@
 - [x] Netlify
 - [x] Firebase
 - [x] Vercel
+- [x] React Native
+
+### Interested in practicing recently learned technologies:
+
+- [] VueJS
+- [] Angular
+- [] ElectronJS
+- [] C#
+- [] Wordpress visual blocks
