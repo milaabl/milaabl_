@@ -9,6 +9,8 @@
 - [x] Golang
 - [x] Express
 - [x] Node
+- [x] Ionic
+- [x] GraphQL
 - [x] i18n
 - [x] MUI
 - [x] Tailwind CSS
