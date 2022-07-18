@@ -43,8 +43,8 @@
 
 ### Interested in practicing recently learned technologies:
 
-- [] VueJS
-- [] Angular
-- [] ElectronJS
-- [] C#
-- [] Wordpress visual blocks
+- [ ] VueJS
+- [ ] Angular
+- [ ] ElectronJS
+- [ ] C#
+- [ ] Wordpress visual blocks
