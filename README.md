@@ -50,3 +50,6 @@
 - [ ] ElectronJS
 - [ ] C#
 - [ ] Wordpress visual blocks
+- [ ] Ruby on Rails
+- [ ] Golang
+- [ ] FFMPEG
