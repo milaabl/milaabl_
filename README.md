@@ -4,6 +4,9 @@
 - [x] Typescript
 - [x] Web3
 - [x] MongoDB
+- [x] MySQL
+- [x] MariaDB
+- [x] Neo4J
 - [x] Mongoose
 - [x] PostgreSQL
 - [x] Golang
@@ -42,6 +45,10 @@
 - [x] Firebase
 - [x] Vercel
 - [x] React Native
+
+- [x] Unit testing
+- [x] Mocha/Chai
+- [x] Cypress
 
 ### Interested in practicing recently learned technologies:
 
