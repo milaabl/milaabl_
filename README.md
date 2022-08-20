@@ -1,7 +1,7 @@
 <p style="font-size: 20px;">"The only way to do great work is to love what you do.” - Steve Jobs</p>
 
 
-<p>I consider myself lucky because my work field is my passion.</p>
+<p>I consider myself lucky because my work field is my passion!!</p>
 
 ### My skills:
 
