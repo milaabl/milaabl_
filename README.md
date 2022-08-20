@@ -1,3 +1,8 @@
+# "The only way to do great work is to love what you do.” -Steve Jobs
+
+## I Consider myself lucky because my work field is my passion.
+
+
 - [x] React
 - [x] Next
 - [x] Nest
