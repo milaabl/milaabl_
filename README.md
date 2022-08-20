@@ -5,7 +5,7 @@
 <p>I consider myself lucky because my work field is my passion.</p>
 </h1>
 
-<h2>My skills:</h2>
+<h2><p>My skills:</p>
 
 - [x] React
 - [x] Next
@@ -69,3 +69,5 @@
 - [ ] Ruby on Rails
 - [ ] Golang
 - [ ] FFMPEG
+
+  </h2>
