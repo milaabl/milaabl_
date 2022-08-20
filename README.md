@@ -1,9 +1,9 @@
-<h1>"The only way to do great work is to love what you do.” - Steve Jobs</h1>
+<p style="font-size: 20px;">"The only way to do great work is to love what you do.” - Steve Jobs</p>
 
 
 <p>I consider myself lucky because my work field is my passion.</p>
 
-<h2>My skills:</h2>
+<p>My skills:</p>
 
 - [x] React
 - [x] Next
