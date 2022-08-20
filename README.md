@@ -3,7 +3,7 @@
 
 <p>I consider myself lucky because my work field is my passion.</p>
 
-<p>My skills:</p>
+### My skills:
 
 - [x] React
 - [x] Next
@@ -52,12 +52,13 @@
 - [x] Firebase
 - [x] Vercel
 - [x] React Native
-
 - [x] Unit testing
 - [x] Mocha/Chai
 - [x] Cypress
 
+
 ### Interested in practicing recently learned technologies:
+
 
 - [ ] VueJS
 - [ ] Angular
