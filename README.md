@@ -3,6 +3,8 @@
 
 <p>I consider myself lucky because my work field is my passion!!</p>
 
+<p>I am eager to work with you, to provide high quality work and solution to ensure the product has been delivered ON TIME, ON BUDGET and does BEYOND what it's intented to do!!!</p>
+
 ### My skills:
 
 - [x] React
