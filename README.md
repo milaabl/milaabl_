@@ -11,6 +11,8 @@
 - [x] Next
 - [x] Nest
 - [x] Typescript
+- [x] Svelte
+- [x] SvelteKit
 - [x] Web3
 - [x] MongoDB
 - [x] MySQL
@@ -43,6 +45,7 @@
 - [x] Webhooks
 - [x] Mailchimp
 - [x] Headless Wordpress
+- [x] Contentful
 - [x] CraftCMS
 - [x] GraphCMS
 - [x] LESS
