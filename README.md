@@ -53,17 +53,12 @@
 - [x] Unit testing
 - [x] Mocha/Chai
 - [x] Cypress
-
-
-### Interested in practicing recently learned technologies:
-
-
-- [ ] VueJS
-- [ ] Angular
-- [ ] ElectronJS
-- [ ] C#
-- [ ] Wordpress visual blocks
-- [ ] Ruby on Rails
-- [ ] Golang
-- [ ] FFMPEG
+- [x] VueJS
+- [x] Angular
+- [x] ElectronJS
+- [x] C#
+- [x] Wordpress visual blocks
+- [x] Ruby on Rails
+- [x] Golang
+- [x] FFMPEG
 
