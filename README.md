@@ -2,6 +2,7 @@
 
 - [x] React
 - [x] Next
+- [x] Web3
 - [x] Nest
 - [x] Typescript
 - [x] Svelte
