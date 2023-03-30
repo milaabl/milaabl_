@@ -64,4 +64,11 @@
 - [x] FFMPEG
 
 
+# Blockchain experience
+- [x] Cosmos
+- [x] Polygon
+- [x] Ethereum
+- [x] Metis Andromeda
+
+
 ![octocat-1680185190521](https://user-images.githubusercontent.com/86361434/228862433-382ec723-b805-48fe-923b-69f94b72e030.png)
